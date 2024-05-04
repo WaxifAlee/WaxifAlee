@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WaxifAlee
 - 👀 I’m interested in Music and Coding
-- 🌱 I’m currently learning React Js
+- 🌱 Expert in Next JS and Full Stack
 - 💞️ I’m looking to collaborate on A Website
 - 📫 How to reach me.. waxif.alee1@gmail.com
 
