@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WaxifAlee
 - 👀 I’m interested in Music and Coding
-- 🌱 Expert in Next JS and Full Stack
-- 💞️ I’m looking to collaborate on A Website
+- 🌱 Expert in Full Stack MERN, Python and Flutter Mobile Development
+- 💞️ I’m looking to collaborate on innovative project ideas
 - 📫 How to reach me.. waxif.alee1@gmail.com
 
 <!---
