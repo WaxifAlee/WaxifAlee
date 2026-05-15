@@ -1,7 +1,9 @@
 # 👋 Hey, I'm Wasif Ali
 
 🚀 **Team Lead @ Zolvat** | Full-Stack Craftman | Digitally Secure and Scalable Systems Architect.
-👔 Founder of [Silfira](https://instagram.com/silfira.pk) – A modern old-money fashion house.
+Full Stack Developer @ Zolvat
+Go • Vue.js • Next.js • PostgreSQL • Docker
+Building reliable backend systems, fintech workflows, and modern web applications.
 🧠 Passionate about clean architecture, scalable systems, and building solutions that last.
 
 ---
@@ -68,7 +70,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/waxif.alee)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/silfira.official)  
 [![Gmail](https://img.shields.io/badge/-Mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:waxif.alee1@gmail.com)
-
+*Portfolio:* https://www.waxifalee.com/
 ---
 
 🔚 *"Build systems like that'll need upscaling, not debugging"*
